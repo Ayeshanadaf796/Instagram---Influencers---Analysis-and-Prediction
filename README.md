@@ -53,7 +53,7 @@ This project explores **Instagram influencer data** to extract insights on engag
 2. **Country-wise Trends**: Engagement varies significantly across regions.  
 3. **Predicted Influence Score**: Random Forest predicts influencer impact for better campaign targeting.  
 4. **Feature Importance**: Highlights the most influential features driving the score (e.g., followers, post type, country).  
-5. **Marketing Recommendations**: Focus on high-ROI influencers and content types. 
+5. **Marketing Recommendations**: Focus on high-ROI influencers. 
 
 ---
 
