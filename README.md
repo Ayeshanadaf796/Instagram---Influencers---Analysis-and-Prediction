@@ -30,7 +30,7 @@ This project explores **Instagram influencer data** to extract insights on engag
 - **Exploratory Data Analysis (EDA)**:  
   - Top influencers by engagement and reach  
   - Country-wise performance comparisons  
-  - Posts and content engagement trends  
+  - Posts and content engagement trends
 - **Predictive Modeling**:  
   - **Random Forest Regression** to predict engagement score based on features like followers, post type, and country  
   - Model evaluation using **R², RMSE, and feature importance**  
@@ -56,8 +56,4 @@ This project explores **Instagram influencer data** to extract insights on engag
 5. **Marketing Recommendations**: Focus on high-ROI influencers. 
 
 ---
-
-## Author
-**Ayesha Nadaf**  
-- Email: nadafayesha175@gmail.com 
 
