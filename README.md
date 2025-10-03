@@ -15,7 +15,6 @@
 This project explores **Instagram influencer data** to extract insights on engagement, reach, and content performance, and builds a **Random Forest model** to predict influencer engagement scores. Using **Python, MySQL, Tableau, and Random Forest**, the analysis identifies trends among top influencers and provides actionable marketing recommendations.
 
 ---
-
 ## Key Metrics at a Glance
 | Metric | Insight |
 |--------|---------|
@@ -49,6 +48,12 @@ This project explores **Instagram influencer data** to extract insights on engag
 - **Visualization Tools**: Tableau  
 - **Machine Learning**: Random Forest Regression  
 - **Environment**: Google Colab  
+
+---
+## 📷 Tableau Dashboard
+<p align="center">
+  <img src="images/instagram influencer dashboard.png" alt="Tableau Dashboard" width="1000"/>
+</p>
 
 ---
 ## Key Insights
