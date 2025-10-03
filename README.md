@@ -7,8 +7,11 @@
 ![ML](https://img.shields.io/badge/Machine%20Learning-Random%20Forest-red)
 
 ---
+<p align="center">
+  <img src="images/instagram PNG.png" alt="Instagram Logo" width="800"/>
+</p>
 
-## Overview
+## Project Overview
 This project explores **Instagram influencer data** to extract insights on engagement, reach, and content performance, and builds a **Random Forest model** to predict influencer engagement scores. Using **Python, MySQL, Tableau, and Random Forest**, the analysis identifies trends among top influencers and provides actionable marketing recommendations.
 
 ---
